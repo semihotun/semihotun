@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Semih</h1>
+<h3 align="center">A passionate FullStack developer from Turkey</h3>
 
-<!--
-**semihotun/semihotun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihotun&label=Profile%20views&color=0e75b6&style=flat" alt="semihotun" /> </p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **semihotun1@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/semih-ötün-0bb9091aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semih-ötün-0bb9091aa" height="30" width="40" /></a>
+</p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semihotun&show_icons=true&locale=en&layout=compact" alt="semihotun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihotun&show_icons=true&locale=en" alt="semihotun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihotun&" alt="semihotun" /></p>
